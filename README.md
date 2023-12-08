@@ -1,1 +1,1 @@
-This project is one assigned by The Odin Project, an organization designed to help people learn about computer science. Right now in this project I am using the skills I have developed in the Terminal using Zhs (taught in BASH), inclusing git. I am also using HTML to develop the webpage.
+This project is one assigned by The Odin Project, an organization designed to help people learn about computer science. Right now in this project I am using the skills I have developed in the Terminal using Zhs (taught in BASH), including git. I am also using HTML to develop the webpage.
